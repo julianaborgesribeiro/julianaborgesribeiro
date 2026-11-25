@@ -1,19 +1,14 @@
-# Oii, pessoal! 👋 
+# Oii! Eu sou a Juliana Borges 👋💜
 
-### Seja bem-vindo(a) ao meu cantinho no GitHub! 💜
+Que bom ter você por aqui! Seja bem-vindo(a) ao meu cantinho!
 
-Sou formada em **Quality Assurance (QA) pela TripleTen**, onde desenvolvi conhecimentos teóricos e práticos em garantia da qualidade de software, com foco em testes de aplicações web e mobile.
+Sou formada em **Quality Assurance (QA) pela TripleTen** e sou apaixonada por aprendizado e descobertas. Sou curiosa por natureza, gosto de entender como as coisas funcionam, explorar novos conhecimentos e, principalmente, colocar a mão na massa!
 
-### 👩🏻‍💻 Um pouquinho sobre mim...
+Entre testes, códigos e alguns bugs pelo caminho, estou sempre buscando aprender e evoluir na área de QA. 🔎💻
 
-- 🔍 Curiosa por natureza e sempre querendo descobrir algo novo.
-- 📚 Amo ler! 
-- 🐈 Apaixonada por gatos (eles têm um lugar especial no meu coração).
-- 🎮 Gosto de videogames e de me aventurar em novos jogos.
-- 🎬 Adoro séries e filmes, especialmente os de romance e de super-heróis.
-- ✨ Acredito que aprender nunca é demais e que sempre existe algo novo esperando para ser descoberto!
+Fora do mundo da tecnologia, também tenho meus hobbies: amo ler, sou apaixonada por gatos, adoro videogames e não dispenso uma boa série ou filme, especialmente os de romance. 📚🐈🎮🎬
 
-### 🧪 O que eu ando aprontando em QA?
+### 🧩 Minha jornada em Quality Assurance
 
 Durante minha formação na TripleTen, tive a oportunidade de colocar a mão na massa e aprender sobre diferentes etapas dos testes de software.
 
@@ -39,7 +34,7 @@ Algumas coisas que fazem parte do meu universo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
-</p>
+  </p>
 
 ### 🎯 Meus objetivos
 
@@ -83,6 +78,6 @@ Adoro conhecer pessoas, trocar experiências e aprender coisas novas. Então, po
 
 **Entre livros, gatinhos, videogames e alguns bugs pelo caminho, seguimos aprendendo!** 🐈‍⬛💻💜
 
-  <img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAd/typing-fast.gif" width="250" alt="Gatinho digitando no computador"/>
+<img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAd/typing-fast.gif" width="250" alt="Gatinho digitando no computador"/>
 
 </div>
