@@ -29,6 +29,17 @@ Tenho interesse em tecnologia, qualidade de software e melhoria contínua. Gosto
 
 Neste perfil, compartilho projetos desenvolvidos durante minha formação em QA e estudos práticos, envolvendo planejamento, elaboração e execução de testes, identificação de bugs e automação de testes.
 
+📫 Contatos
+
+<div>
+  <a href="https://www.linkedin.com/in/juliana-borges-ribeiro/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:julianaborges198@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 ### 📫 Vamos nos conectar?
 
 - **LinkedIn:** https://www.linkedin.com/in/juliana-borges-ribeiro/
