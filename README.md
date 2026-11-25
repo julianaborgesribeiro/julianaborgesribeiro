@@ -1,7 +1,7 @@
 # Oii, pessoal! 👋 Eu sou a Juliana Borges!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/julianaborgesribeiro/julianaborgesribeiro/main/avatar.png" width="500" alt="Juliana e seu gatinho programador"/>
+  <img src="./avatar.png" width="500" alt="Juliana e seu gatinho programador"/>
 </div>
 
 ### Seja bem-vindo(a) ao meu cantinho no GitHub! 💜
