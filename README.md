@@ -6,18 +6,21 @@ Sou formada em **Quality Assurance (QA) pela TripleTen**, onde desenvolvi conhec
 
 Tenho interesse em tecnologia, qualidade de software e melhoria contínua. Gosto de analisar requisitos, identificar inconsistências, elaborar cenários de teste e contribuir para o desenvolvimento de aplicações mais confiáveis e eficientes.
 
-### 🚀 Conhecimentos e tecnologias
+### 🚀 Conhecimentos em QA
 
-- **Testes:** Testes manuais, funcionais, exploratórios, regressivos e de API.
-- **Automação:** Python, Selenium WebDriver e Pytest.
-- **API:** Postman, requisições HTTP e validação de respostas JSON.
-- **Banco de dados:** SQL.
-- **Ferramentas:** Jira, DevTools, Git e GitHub.
-- **Design de testes:** Classes de equivalência, análise de valor limite, checklists e casos de teste.
+- Testes manuais, funcionais, exploratórios e regressivos.
+- Testes de API e validação de respostas JSON.
+- Automação de testes com Python, Selenium WebDriver e Pytest.
+- Elaboração de casos de teste, checklists e cenários de teste.
+- Técnicas de design de testes: classes de equivalência e análise de valor limite.
 
-### 🌱 Atualmente estou aprendendo
+### 🛠️ Ferramentas e Tecnologias
 
-Aprofundando meus conhecimentos em automação de testes, testes de API, SQL e boas práticas de Quality Assurance.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" title="Selenium"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" height="40" title="Pytest"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/>
+
+### 📚 Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
 
 ### 🎯 Meus objetivos
 
@@ -26,7 +29,7 @@ Aprofundando meus conhecimentos em automação de testes, testes de API, SQL e b
 - Explorar novas ferramentas e tecnologias da área de QA.
 - Contribuir para a entrega de softwares com qualidade e uma boa experiência para os usuários.
 
-### 📂 Projetos
+### 📂 Meus projetos
 
 Neste perfil, compartilho projetos desenvolvidos durante minha formação em QA e estudos práticos, envolvendo planejamento, elaboração e execução de testes, identificação de bugs e automação de testes.
 
