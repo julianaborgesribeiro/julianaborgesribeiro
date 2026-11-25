@@ -40,11 +40,6 @@ Neste perfil, compartilho projetos desenvolvidos durante minha formação em QA 
   </a>
 </div>
 
-### 📫 Vamos nos conectar?
-
-- **LinkedIn:** https://www.linkedin.com/in/juliana-borges-ribeiro/
-- **E-mail:** julianaborges198@gmail.com
-
 ---
 
 ✨ Acredito que qualidade vai além de encontrar erros: é contribuir para criar produtos melhores e experiências mais satisfatórias para os usuários!
