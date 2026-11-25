@@ -87,10 +87,6 @@ Adoro conhecer pessoas, trocar experiências e aprender coisas novas. Então, po
 
 **Entre livros, gatinhos, videogames e alguns bugs pelo caminho, seguimos aprendendo!** 🐈‍⬛💻💜
 
-<div align="center">
-
-  **Entre livros, gatinhos, videogames e alguns bugs pelo caminho, seguimos aprendendo!** 🐈‍⬛💻💜
-
   <img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAd/typing-fast.gif" width="250" alt="Gatinho digitando no computador"/>
 
 </div>
